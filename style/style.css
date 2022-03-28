@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgR{
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+.video{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.btnsM{
+    width: 700px;
+    margin: 0 auto;
+}
